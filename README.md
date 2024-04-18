@@ -10,7 +10,7 @@
     <img src="http://ForTheBadge.com/images/badges/made-with-python.svg">
   </a>
 <p align="center">
-  <a href="https://github.com/MRK-YT/MT-Rose-Bot-Model/stargazers">
+  <a href="https://github.com/mikuuhh/MT-Rose-Bot-Model">
     <img src="https://img.shields.io/github/stars/MRK-YT/MT-Rose-Bot-Model?style=social">
 
   </a>
@@ -28,14 +28,14 @@ simple to use.
 
 Can be found on telegram as [കൊച്ചുമുതലാളി](https://t.me/kochubot).
 
-Kochu and I are moderating a [support group](https://t.me/Mo_Tech_Group), where you can ask for help setting up your
+Kochu and I are moderating a [support group](https://t.me/HindienglishchattingChitchat), where you can ask for help setting up your
 bot, discover/request new features, report bugs, and stay in the loop whenever a new update is available. Of course
 I'll also help when a database schema changes, and some table column needs to be modified/added. Note to maintainers that all schema changes will be found in the commit messages, and its their responsibility to read any new commits.
 
-Join the [news channel](https://t.me/Mo_Tech_YT) if you just want to stay in the loop about new features or
+Join the [news channel](https://t.me/mikuhrajput) if you just want to stay in the loop about new features or
 announcements.
 
-Alternatively, [find me on telegram](https://t.me/Mrk_YT)! (Keep all support questions in the support chat, where more people can help you.)
+Alternatively, [find me on telegram](https://t.me/mikuhrajput)! (Keep all support questions in the support chat, where more people can help you.)
 
 To deploy me on heroku, use below button:
 
